@@ -1,1 +1,1 @@
-# starbucks-banilla
+# starbucks-vanilla
